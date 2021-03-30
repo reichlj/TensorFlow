@@ -112,7 +112,3 @@ plt.xlabel('Batch #')
 plt.ylabel('Loss [entropy]')
 plt.show()
 
-# *********  Variables and optimizers
-# *********
-# *********
-# *********
