@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=KNAWp2S3w94&list=RDCMUC0rqucBdTuFTjJiefW5t-IQ&index=1
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras

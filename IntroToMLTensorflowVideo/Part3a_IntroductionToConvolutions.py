@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 from scipy import misc
 
-image = misc.ascent()
+image = misc.ascent()  # load image from scipy
 t = image.shape
 plt.grid(False)
 plt.gray()

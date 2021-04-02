@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=x_VrgWTKkiM
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
